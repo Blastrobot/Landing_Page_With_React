@@ -64,3 +64,5 @@ dist/*
 !.htaccess
 !.eslintrc
 .now
+
+src/img/thumbnail_IMG_9678.jpg
